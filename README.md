@@ -19,7 +19,7 @@ Trevisan AJ, Han K, Chapman P, Kulkarni AS, Hinton JM, Ramirez C, Klein I, Gatto
 
 **Final publication:**
 
-In progress
+Trevisan, A.J., Han, K., Chapman, P.D. et al. Transcriptomic analysis of spinal V1 interneurons informs their multifunctional role in motor output. Nat Commun (2026). https://doi.org/10.1038/s41467-026-76522-3
 
 
 ---
